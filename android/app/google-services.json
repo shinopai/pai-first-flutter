@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "843058447256",
+    "project_id": "shinopai",
+    "storage_bucket": "shinopai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843058447256:android:3bfe708fb5339622fce1ed",
+        "android_client_info": {
+          "package_name": "com.example.pai_traning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843058447256-au8lod45c2asv9jjh9qbqmtq6p7v7l9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5GbK4U1-3iLHCE9b5yOe7tI4-BYxODP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843058447256-au8lod45c2asv9jjh9qbqmtq6p7v7l9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
